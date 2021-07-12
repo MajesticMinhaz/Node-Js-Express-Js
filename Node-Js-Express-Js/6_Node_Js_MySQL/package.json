@@ -1,0 +1,15 @@
+{
+  "name": "6_node_js_mysql",
+  "version": "1.0.0",
+  "description": "This project is practice for MySQL with node.js for server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Md. Minhaz",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

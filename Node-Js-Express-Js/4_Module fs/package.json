@@ -1,0 +1,16 @@
+{
+  "name": "4_module-fs",
+  "version": "1.0.0",
+  "description": "Fs Module Practice",
+  "main": "readfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node readfile.js"
+  },
+  "keywords": [
+    "Fs",
+    "module"
+  ],
+  "author": "Md. Minhaz",
+  "license": "ISC"
+}

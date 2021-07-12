@@ -1,0 +1,21 @@
+{
+  "name": "5_my_first_node_js_website",
+  "version": "1.0.0",
+  "description": "This My First Real life project on cPanel...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Write",
+    "Real",
+    "project",
+    "on",
+    "node",
+    "js",
+    "cpanal"
+  ],
+  "author": "Md. Minhaz",
+  "license": "ISC"
+}
